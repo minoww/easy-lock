@@ -1,7 +1,7 @@
--- Toggle key is E
+-- Toggle key is X
 getgenv().Target = true
 -- Configuration
-getgenv().Key = Enum.KeyCode.E
+getgenv().Key = Enum.KeyCode.X
 getgenv().Prediction = 0.135
 getgenv().ChatMode = false
 getgenv().NotifMode = true
